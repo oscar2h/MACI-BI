@@ -1,5 +1,5 @@
 # MACI-BI
-Clases Prácticas MACI-BI
+## Clase Práctica 2
 
 Descripción Excel: Monto y cantidad ventas de productos smarphone por representantes en un período de tiempo.
 

@@ -1,5 +1,5 @@
 # MACI-BI
-## Clase Práctica 2
+## Clase Práctica 3
 
 Excel C2Lab1.xlsx
 Descripción Excel: Monto y cantidad ventas de productos smarphone por representantes en un período de tiempo.

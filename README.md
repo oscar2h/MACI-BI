@@ -33,3 +33,5 @@ Trabajo clase:
 - Preparar dimensiones y tabla de hechos para un modelo estrella (Dimensiones producto, representante, fecha y tabla de hechos)
 - Relacionar tablas modelo estrella
 - Desarrollar tablero Power BI
+
+![My Image](TableroEfashion.png)

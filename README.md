@@ -35,6 +35,8 @@ Trabajo clase:
 - Relacionar tablas modelo estrella
 - Desarrollar tablero Power BI
 
-![My Image](TableroEfashion.png)
+Tablero Ayuda Tarea1
 
+
+Gráficos adicionales
 ![My Image](TableroEfashion_Adicionales.png)

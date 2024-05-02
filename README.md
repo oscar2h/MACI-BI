@@ -36,7 +36,7 @@ Trabajo clase:
 - Desarrollar tablero Power BI
 
 Tablero Ayuda Tarea1
-
+![My Image](TableroEfashion.png)
 
 Gráficos adicionales
 ![My Image](TableroEfashion_Adicionales.png)

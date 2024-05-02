@@ -23,6 +23,7 @@ Hoja Categoria (36 filas):
 Hoja Fact (9368 filas):
 - Id Fact
 - Id Periodo
+- Id Tienda
 - Id Categoria
 - Monto Venta
 - Cantidad venta

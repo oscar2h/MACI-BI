@@ -29,7 +29,7 @@ Hoja Fact (9368 filas):
 - Cantidad venta
 
 Trabajo clase:
-- Utilizar Excel Github como origen de datos en cliente power BI
+- Utilizar Excel Github como origen de datos en cliente power BI (https://github.com/oscar2h/MACI-BI/raw/main/C2Lab1_Efashion.xlsx)
 - Analizar y realizar limpieza de datos en caso que corresponda
 - Preparar dimensiones y tabla de hechos para un modelo estrella (Dimensiones producto, representante, fecha y tabla de hechos)
 - Relacionar tablas modelo estrella

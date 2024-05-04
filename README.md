@@ -39,9 +39,8 @@ Power Query:
 
 - Limpieza
 - Crear 2 columnas en periodo:
-
-  -- id_dim_periodo: Number.ToText([Año])& (if [Mes] < 10 then "0"&Number.ToText([Mes]) else Number.ToText([Mes]))
-  -- fecha: Number.ToText([Año])& (if [Mes] < 10 then "0"&Number.ToText([Mes]) else Number.ToText([Mes]))&"01"
+* id_dim_periodo: Number.ToText([Año])& (if [Mes] < 10 then "0"&Number.ToText([Mes]) else Number.ToText([Mes]))
+* fecha: Number.ToText([Año])& (if [Mes] < 10 then "0"&Number.ToText([Mes]) else Number.ToText([Mes]))&"01"
 
 Tablero Ayuda Tarea1
 ![My Image](C2Lab1_TableroEfashion.png)
